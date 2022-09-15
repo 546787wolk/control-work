@@ -1,0 +1,15 @@
+C:\Users\Настя\Desktop\Контрольная работа\Task\bin\Debug\net6.0\Task.exe
+C:\Users\Настя\Desktop\Контрольная работа\Task\bin\Debug\net6.0\Task.deps.json
+C:\Users\Настя\Desktop\Контрольная работа\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+C:\Users\Настя\Desktop\Контрольная работа\Task\bin\Debug\net6.0\Task.dll
+C:\Users\Настя\Desktop\Контрольная работа\Task\bin\Debug\net6.0\Task.pdb
+C:\Users\Настя\Desktop\Контрольная работа\Task\obj\Debug\net6.0\Task.csproj.AssemblyReference.cache
+C:\Users\Настя\Desktop\Контрольная работа\Task\obj\Debug\net6.0\Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Настя\Desktop\Контрольная работа\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
+C:\Users\Настя\Desktop\Контрольная работа\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
+C:\Users\Настя\Desktop\Контрольная работа\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+C:\Users\Настя\Desktop\Контрольная работа\Task\obj\Debug\net6.0\Task.dll
+C:\Users\Настя\Desktop\Контрольная работа\Task\obj\Debug\net6.0\refint\Task.dll
+C:\Users\Настя\Desktop\Контрольная работа\Task\obj\Debug\net6.0\Task.pdb
+C:\Users\Настя\Desktop\Контрольная работа\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+C:\Users\Настя\Desktop\Контрольная работа\Task\obj\Debug\net6.0\ref\Task.dll
